@@ -1,11 +1,11 @@
 {
-  "name": "js-project-portfolio",
+  "name": "js_70_olena1iashenko",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-project-portfolio/",
+    "build": "vite build --base=/js_70_olena1iashenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
